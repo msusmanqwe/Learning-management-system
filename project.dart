@@ -194,7 +194,7 @@ void adminMenu(Map<String, Map<String, dynamic>> students, Map<String, Map<Strin
         print('Logging out...');
       }
     }
-  }ﾀ
+  }
 }
 
 void teacherMenu(Map<String, Map<String, dynamic>> students) {
